@@ -54,4 +54,4 @@ docs/_build/
 target/
 
 # System Files
-.DS_Score
+.DS_Store
